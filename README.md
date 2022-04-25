@@ -2,8 +2,8 @@
 
 Here are some details about my setup:
 
-- WM: i3-gaps
 - OS: Arch Linux
+- WM: i3-gaps
 - Terminal: kitty
 - Shell: zsh
 - Editor: neovim
